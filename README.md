@@ -3,6 +3,7 @@ This is an Arduino Project that uses an Ultra Sonic sensor for measuring distanc
 
 ⚠️ /!\ DO NOT ACTIVATE this code if pets are nearby, dogs in particular /!\ ⚠️
 
+
 ✅ This Arduino project requires multiple electronic componants:
   * x1 Arduino Mother Board
   * x1 HC-SR04 Ultra Sonic Distance Sensor
