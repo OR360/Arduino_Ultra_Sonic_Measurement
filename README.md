@@ -18,3 +18,5 @@ Use Breadboard for connecting all componants, then choose x4 Jumper Wires -
 
 ✅ To review the full project - https://github.com/OR360/Ultra_Sonic_Measurement/blob/main/Project_Ultra_Sonic.pdf
 ✅ To use the project Arduino code - https://github.com/OR360/Ultra_Sonic_Measurement/blob/main/ULTRA_SONIC.ino
+
+✅ Feel free to change the configuration for using different digital pins if needed, make sure you connect everything correctly.
